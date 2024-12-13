@@ -1,0 +1,679 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Lexend+Deca&family=Sonsie+One&display=swap');
+
+* {
+   
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #1E1E1E;
+    display: flex;
+    justify-content: center;
+}
+.Portfolio{
+    width: 1440px;
+    height: 4926px;
+    background: #020617;
+
+}
+.Frame83{
+    width: 1440px;
+    height: 62px;
+    padding: 16px 8px 16px 8px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.navigation{
+    width:1104px;
+    height:30px;
+    opacity: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.AboutMe{
+    width: 115px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Lexend Deca";
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+span{
+   color: #EAB308;
+}
+.navbar{
+    width:620px;
+    height: 20px;
+    gap: 27px;
+    opacity: 0px;
+    
+}
+ul{
+    font-family: "Lexend Deca";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+}
+ol{
+    list-style: none;
+    display: flex;
+    gap: 27px;
+}
+li{
+    text-transform: uppercase;
+}
+.herosection{
+    width: 1440px;
+    height:619px;
+    padding: 96px 165px 96px 165px;
+    gap: 8px;
+    opacity: 0px;
+    background: #111827;
+
+}
+.Frame34{
+    width:1092px;
+    height:427px;
+    gap: 199px;
+    opacity: 0px;
+    display: flex;
+    align-items: center;
+}
+.Frame33{
+    width:466px;
+    height:271px;
+    gap: 24px;
+    opacity: 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    width: 427px;
+    height: 427px;
+    gap: 0px;
+    border-radius: 24px 0px 0px 0px;
+    opacity: 0px;
+}
+h4{
+    width: 120px;
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Lexend Deca";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #EAB308;
+}
+.Frame35{
+    width: 466px;
+    height: 153px;
+    gap: 8px;
+    opacity: 0px;
+}
+h1{
+    width: 433px;
+    height: 64px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Lexend Deca";
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 64px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #F3F4F6;
+}
+.herosection p{
+    width: 466px;
+    height: 81px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Lexend Deca";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #6B7280;
+}
+.Frame23{
+    width: 123px;
+    height: 43px;
+    padding: 8px 20px 8px 20px;
+    gap: 10px;
+    border-radius: 4px ;
+    opacity: 0px;
+    background: #FACC15;
+    
+    
+    
+
+}
+button{
+    width: 83px;
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Lexend Deca";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+    background: transparent;
+    border: none;
+
+}
+.aboutme {
+    width: 1108px;
+    height: 704px;
+    padding: 96px 0px 96px 0px;
+    gap: 89px;
+    opacity: 0px;  
+    margin: 0px auto;
+    display: flex;
+    position: relative;
+
+}
+.about {
+    width: 510px;
+    height: 512px;
+    gap: 0px;
+    border-radius: 24px 0px 0px 0px;
+    border: 16px 0px 0px 0px;
+    opacity: 0px;
+    
+    
+
+}
+.Rectangle1003{
+   position:absolute;
+    width: 475px;
+    height: 475px;
+    border-radius: 24px 0px 0px 0px;
+    z-index: 1;
+    transform: translate(35px,-17px);
+}
+.Rectangle1004{
+    position:absolute;
+    width: 475px;
+    height: 502px;
+    border-radius: 24px 0px 0px 0px;
+    border: 16px 0px 0px 0px;
+    
+    
+    
+
+}
+.Frame38 {
+    width: 509px;
+    height: 348px;
+    gap: 32px;
+    opacity: 0px;
+    display: flex;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+
+}
+
+.Frame38 h2 {
+width: 203px;
+height: 64px;
+font-family: "Lexend Deca";
+font-size: 42px;
+font-weight: 700;
+line-height: 64px;
+
+
+}
+.Frame37 {
+    width: 509px;
+    height: 252px;
+   
+   
+}
+.Frame36 {
+    width: 509px;
+    height: 153px;
+    opacity: 0px;
+    
+    
+
+}
+.Frame36 p{
+    width: 461px;
+    height: 81px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Lexend Deca";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #6B7280;
+    
+}
+.Frame36 .dawn{
+    width: 509px;
+height: 54px;
+gap: 0px;
+opacity: 0px;
+font-family: "Lexend Deca";
+font-size: 16px;
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-top: 18px;
+
+
+}
+.Frame24 {
+    width:124px;
+height:59px;
+padding: 16px 20px 16px 20px;
+
+border-radius: 4px ;
+opacity: 0px;
+background: #EAB308;
+display: flex;
+margin-top: 40px;
+font-family: "Arvo";
+
+}
+.Frame24 button{
+width: 84px;
+height: 27px;
+gap: 0px;
+opacity: 0px;
+
+font-size: 16px;
+font-weight: 400;
+line-height: 27px;
+
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+
+
+}
+.myservice {
+    width: Hug (1,440px)px;
+height: Hug (759px)px;
+padding: 96px 165px 96px 165px;
+gap: 8px;
+opacity: 0px;
+background: #111827;
+
+}
+.myservice {
+    width: 1440px;
+    height: 759px;
+    padding: 96px 165px 96px 165px;
+    gap: 8px;
+    opacity: 0px;
+    background: #111827;
+
+}
+.Frame52 {
+width: 1110px;
+height:567px;
+gap: 56px;
+opacity: 0px;
+
+}
+.Frame41 {
+    width:461px;
+    height:169px;
+    gap: 24px;
+    opacity: 0px;
+}
+.Frame41 h2{
+    width: 236px;
+height: 64px;
+gap: 0px;
+opacity: 0px;
+font-family: "Lexend Deca";
+font-size: 42px;
+font-weight: 700;
+line-height: 64px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #F3F4F6;
+margin-bottom:24px ;
+}
+.Frame41 p{
+    width: 461px;
+height: 81px;
+gap: 0px;
+opacity: 0px;
+font-family: Lexend Deca;
+font-size: 16px;
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #6B7280;
+
+}
+.Frame51 {
+    width: 1110px;
+    height: 342px;
+    margin-top: 56px;
+    gap: 30px;
+    display: flex;
+   
+
+
+}
+.Frame44 {
+    width: 350px;
+    height: 342px;
+    padding: 32px ;
+    gap: 8px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #020617;
+
+}
+.Frame43 {
+    width: 286px;
+    height: 278px;
+    gap: 32px;
+    opacity: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Frame {
+    width: 40px;
+    height: 40px;
+    padding: 2.5px 0px 2.25px 0px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+.vector  img {
+    width: 40px;
+    height: 40px;
+    top: 2.5px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 0%;
+
+}
+.Frame42 {
+    width:286px;
+    height:206px;
+    gap: 16px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.Frame42 h4{
+    width: 136px;
+    height: 82px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lexend Deca;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 41px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #F3F4F6;
+
+}
+.Frame42 p{
+    width: 286px;
+height: 108px;
+gap: 0px;
+opacity: 0px;
+font-family: Lexend Deca;
+font-size: 16px;
+font-weight: 400;
+line-height: 27px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #6B7280;
+
+}
+.Frame50 {
+    width: 350px;
+    height: 339.78px;
+    padding: 32px ;
+    gap: 8px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #020617;
+
+
+}
+.Frame46 {
+    width: 286px;
+    height: 275.78px;
+    gap: 32px;
+    opacity: 0px;
+
+}
+.Frame45 {
+    width:286px;
+    height:206px;
+    gap: 16px;
+    opacity: 0px;
+
+}
+.Frame49 {
+    width: 350px;
+    height: 342px;
+    padding: 32px ;
+    gap: 8px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #020617;
+}
+.myportfolio {
+    width: 1110px;
+    height: 1006px;
+    padding: 96px 0px 96px 0px;
+    gap: 80px;
+    opacity: 0px;
+
+}
+.Frame54 {
+    width: 461px;
+    height: 169px;
+    gap: 24px;
+    opacity: 0px;
+
+}
+.Frame58 {
+    width: 1110px;
+    height:  565px;
+    gap: 27px;
+    opacity: 0px;
+
+}
+.Frame55 {
+    width: 256px;
+    height: 565px;
+    gap: 29px;
+    opacity: 0px;
+
+}
+.Frame56 {
+    width: 256px;
+    height: 565px;
+    gap: 29px;
+    opacity: 0px;
+
+}
+.experience {
+    width: 1424px;
+    height:  714px;
+    padding: 85px 149px 85px 149px;
+    gap: 8px;
+    opacity: 0px;
+
+}
+.Frame60 {
+    width: 1424px;
+    height:  714px;
+    padding: 85px 149px 85px 149px;
+    gap: 8px;
+    opacity: 0px;
+
+}
+.Frame29 {
+    width: 361px;
+    height: 64px;
+    gap: 8px;
+    opacity: 0px;
+
+}
+.Frame82 {
+    width: 1126px;
+    height:  322px;
+    gap: 29px;
+    opacity: 0px;
+
+}
+.Frame74 {
+    width: 366px;
+    height: 303px;
+    padding: 32px 0px 0px 0px;
+    gap: 8px;
+    border-radius: 12px 0px 0px 0px;
+    opacity: 0px;
+
+}
+.Frame64 {
+    width: 302px;
+    height: 239px;
+    gap: 8px;
+    opacity: 0px;
+
+}
+.Frame63 {
+    width: 302px;
+    height: 204px;
+    gap: 8px;
+    opacity: 0px;
+
+}
+.Fram61 {
+    width: 214px;
+    height:72px;
+    gap: 4px;
+    opacity: 0px;
+
+}
+.Fram62 {
+    width: 302px;
+    height: 124px;
+    padding: 8px 0px 0px 0px;
+    gap: 8px;
+    opacity: 0px;
+
+}
+.contact {
+    width: 1110px;
+    height:  742px;
+    padding: 96px 0px 96px 0px;
+    gap: 56px;
+    opacity: 0px;
+
+}
+.Frame75 {
+    width: 685px;
+    height: 142px;
+    gap: 24px;
+    opacity: 0px;
+
+}
+.Frame30 {
+    width: 242px;
+    height:64px;
+    gap: 8px;
+    opacity: 0px;
+
+}
+.Frame81 {
+    width: 1110px;
+    height:  352px;
+    gap: 223px;
+    opacity: 0px;
+
+}
+.Frame76 {
+    width: 347px;
+    height: 253px;
+    gap: 16px;
+    opacity: 0px;
+
+}
+
+.Frame79 {
+    width:685px;
+    height:320px;
+    padding: 56px 0px 56px 0px;
+    gap: 56px;
+    opacity: 0px;
+
+}
+.Frame77 {
+    width: 685px;
+    height: 128px;
+    gap: 24px;
+    opacity: 0px;
+
+}
+.Frame78 {
+    width: 224px;
+    height:24px;
+    gap: 16px;
+    opacity: 0px;
+
+}
